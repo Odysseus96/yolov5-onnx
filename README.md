@@ -4,8 +4,10 @@ To be continued..
 
 
 ## Build
+```  
 bash build.sh  
-./biuld/main "Your Image Path" "Your Model Path"
+./biuld/main "Your Image Path" "Your Model Path“  
+```  
 
 ## Reference
 https://github.com/ultralytics/yolov5  
