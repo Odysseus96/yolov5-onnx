@@ -1,5 +1,7 @@
 # yolov5-onnx
-使用opencv 进行推理
+Deploy onnx model of ultralytics yolov5 with Opencv C++  
+To be continued..
+
 
 ## Build
 bash build.sh  
